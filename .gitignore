@@ -1,0 +1,15 @@
+# java
+*.class
+*.jar
+*.war
+
+# idea
+.idea/
+*.iml
+out/
+
+# OS X
+.DS_Store
+
+# gradle
+.gradle/
